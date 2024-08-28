@@ -1,0 +1,88 @@
+{
+    "platillos": [
+      {
+        "id": 1,
+        "nombre": "Alitas con Papas",
+        "precio": 60,
+        "categoria": 1
+      },
+      {
+        "id": 2,
+        "nombre": "Costillas con Papas",
+        "precio": 65,
+        "categoria": 1
+      },
+      {
+        "id": 3,
+        "nombre": "Orden de Papas",
+        "precio": 30,
+        "categoria": 2
+      },
+      {
+        "id": 4,
+        "nombre": "Rebanada de Flan",
+        "precio": 20,
+        "categoria": 3
+      },
+      {
+        "id": 5,
+        "nombre": "Chicharron Preparado Completo",
+        "precio": 30,
+        "categoria": 2
+      },
+      {
+        "id": 6,
+        "nombre": "Chicharron Preparado 1/2",
+        "precio": 15,
+        "categoria": 2
+      },
+      {
+        "id": 7,
+        "nombre": "Dorilocos",
+        "precio": 45,
+        "categoria": 2
+      },
+      {
+        "id": 8,
+        "nombre": "Postre de Vaso",
+        "precio": 20,
+        "categoria": 3
+      },
+      {
+        "id": 9,
+        "nombre": "Postre de Vaso - Fresa",
+        "precio": 25,
+        "categoria": 3
+      },
+      {
+        "id": 10,
+        "nombre": "Postre de 3",
+        "precio": 35,
+        "categoria": 3
+      },
+      {
+        "id": 11,
+        "nombre": "Platanos Dorados",
+        "precio": 20,
+        "categoria": 2
+      },
+      {
+        "id": 12,
+        "nombre": "Platanos Capeados",
+        "precio": 25,
+        "categoria": 2
+      },
+      {
+        "id": 13,
+        "nombre": "Orden y Media - Alitas con Papas",
+        "precio": 90,
+        "categoria": 1
+      },
+      {
+        "id": 14,
+        "nombre": "Orden y Media - Costillas con Papas",
+        "precio": 95,
+        "categoria": 1
+      }
+    ]
+  }
